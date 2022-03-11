@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "dataCopy",
+				"name": "dataCopy-merge",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
